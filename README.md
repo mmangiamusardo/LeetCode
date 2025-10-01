@@ -20,7 +20,7 @@ This repository is the personal gym for many problems presented on LeetCode. I d
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Harshit Gindra**!  
+Hi, I'm **Marco Mangia**!  
 I'm passionate about algorithms, data structures, and coding interviews.  
 - 💼 Software Developer aspiring Achitect
 - 📫 [LinkedIn](https://www.linkedin.com/in/marcomangia)
